@@ -1,5 +1,5 @@
 body {
-  background-color: #f4f6f9; 
+  background-color: #ffb703; 
     color: #2b2b2b;            
     font-family: 'Georgia', sans-serif;
     padding: 40px;
@@ -7,7 +7,7 @@ body {
     margin: 0 auto;
 }
 .container {
-  background-color: #ffffff;
+  background-color: #ffc8dd;
   padding: 30px;
   border-radius: 12px;
 }
